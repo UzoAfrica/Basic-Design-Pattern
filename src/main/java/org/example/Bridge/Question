@@ -1,0 +1,4 @@
+PROBLEM 1
+Say you have a geometric Shape class with a pair of subclasses ;
+Circle and Square.
+You want to extend this class hierarchy to incorporate colours, so you plan to create Red and Blue shape subclasses.
